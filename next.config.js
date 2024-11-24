@@ -3,4 +3,4 @@ const nextConfig = {
   output: 'standaline'
 };
 
-export default nextConfig;
+module.exports = nextConfig;
